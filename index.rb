@@ -7,7 +7,7 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  puts "ingredients #{ingredients[3][0]}, #{ingredients[3][1]}, #{ingredients[3][2]}."  
+  puts "ingredients #{ingredients[3][0], [3][1], [3][2]}."  
   puts "ingredients #{ingredients [2][2]}"
   puts "ingredients #{ingredients [0][1]}"
 end
