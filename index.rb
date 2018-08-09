@@ -41,6 +41,9 @@ def city_populations(cities)
   puts cities [:los_angeles]  
   puts cities [:chicago][:mayor]
   puts cities [:new_york][:population]
+  puts cities [:miami][:website]
+  puts cities [:los_angeles][:mayor]
+  
 end
 city_populations(cities)
 
