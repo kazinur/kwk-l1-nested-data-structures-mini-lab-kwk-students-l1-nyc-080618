@@ -40,5 +40,5 @@ cities = {
 def city_populations(cities)
   puts cities [:los_angeles]  
   puts cities [:chicago] [:mayor]
-  
+  puts cities "popu"
 end
