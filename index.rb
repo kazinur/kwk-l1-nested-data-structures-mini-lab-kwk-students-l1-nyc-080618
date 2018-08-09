@@ -43,7 +43,7 @@ def city_populations(cities)
   puts cities [:new_york][:population]
   puts cities [:miami][:website]
   puts cities [:los_angeles][:mayor]
-  
+  puts chicago_hash= {}
 end
 city_populations(cities)
 
