@@ -36,5 +36,5 @@ cities = {
 }
 
 def city_populations(cities)
-  # your code here!
+  puts cities.key  
 end
